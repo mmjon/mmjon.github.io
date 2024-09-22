@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>mmjon-blog</title>
+        <title></title>
         <link>http://mmjon.github.io</link>
-        <description>欢迎来到大冰的笔记空间~这里主要会记录编程学习笔记🌸</description>
+        <description>欢迎来到mmjon的笔记空间~这里主要会记录编程学习笔记🌸</description>
         <language>zh-CN</language>
         <pubDate>Sun, 22 Sep 2024 14:35:57 +0800</pubDate>
         <lastBuildDate>Sun, 22 Sep 2024 14:35:57 +0800</lastBuildDate>
